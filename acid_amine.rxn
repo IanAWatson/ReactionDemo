@@ -1,0 +1,10 @@
+(0 Reaction
+  (0 Scaffold
+    (A C smarts "[OD1H]-[CD3]=O")
+    (A I remove_atom 0)
+  )
+  (1 Sidechain
+    (A C smarts "[ND1H2]-[CT1G0]")
+    (A I join (1 0))
+  )
+)
